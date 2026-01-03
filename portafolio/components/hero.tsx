@@ -29,7 +29,7 @@ export function Hero() {
         </Button>
       </div>
       <div className="lg:col-span-5 items-center justify-items-center">
-        <div className="size-60 lg:size-72 rounded-full bg-amber-100 shadow-[0px_0px_60px_rgba(22,23,24,0.35)] shadow-white/20"></div>
+        <div className="size-60 lg:size-72 rounded-full bg-amber-100 shadow-[0px_0px_60px_rgba(22,23,24,0.35)] shadow-white/30"></div>
       </div>
     </div>
   );
