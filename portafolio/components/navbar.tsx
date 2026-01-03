@@ -2,6 +2,7 @@ import { Button } from "./ui/button";
 import { NavigationMenu, NavigationMenuItem, NavigationMenuList } from "./ui/navigation-menu";
 
 export function Navbar() {
+  
   return (
     <div className="flex justify-between items-center text-white py-2">
       <span>Logo</span>
